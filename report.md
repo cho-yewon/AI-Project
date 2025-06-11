@@ -13,9 +13,9 @@ https://www.kaggle.com/datasets/utkarshsaxenadn/fruits-classification
 입력 속성 : 이미지  
 전처리 : 모든 이미지를 32x32로 resize, 픽셀 값 정규화(0-1 스케일)  
 데이터 분할 :   
-- Training : 80% (250장)  
-- Validation : 20% (50장)  
-- Test : 별도로 분리된 test 폴더 (25장)  
+- Training : 76.9% (250장)  
+- Validation : 15.4 (50장)  
+- Test : 7.7% (25장)  
 
 
 ## 전처리 과정  
